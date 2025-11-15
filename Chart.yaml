@@ -1,0 +1,10 @@
+image:
+  repository: docker.io/fady414/first.project
+  tag: main
+
+service:
+  type: ClusterIP
+  port: 8080
+
+replicaCount: 1
+
