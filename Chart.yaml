@@ -1,10 +1,7 @@
-image:
-  repository: docker.io/fady414/first.project
-  tag: main
-
-service:
-  type: ClusterIP
-  port: 8080
-
-replicaCount: 1
+apiVersion: v2
+name: first-project-helm          # <== THIS is what Helm/Argo are asking for
+description: A Helm chart for first-project app
+type: application
+version: 0.1.0                    # chart version (required)
+appVersion: "1.0.0"               # optional, your app version
 
