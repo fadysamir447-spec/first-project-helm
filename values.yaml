@@ -1,6 +1,6 @@
 image:
   repository: docker.io/fady414/first.project
-  tag: "manual-no-m2-test"
+  tag: "single-pvc-test"
   pullPolicy: Always
 
 replicaCount: 1
