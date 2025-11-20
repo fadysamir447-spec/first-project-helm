@@ -1,6 +1,6 @@
 image:
   repository: docker.io/fady414/first.project
-  tag: "manual-no-m2-test"
+  tag: "ad501649552d4855e4953e813397dd07762cbf20"
   pullPolicy: Always
 
 replicaCount: 1
