@@ -1,6 +1,6 @@
 image:
   repository: docker.io/fady414/first.project
-  tag: "f07e86077424f6da99243766e67db07decacc30b"
+  tag: "ba9f8151cd1897a2f3de664ee36ffcb3cdfb81fe"
   pullPolicy: Always
 
 replicaCount: 1
